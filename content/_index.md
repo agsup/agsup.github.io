@@ -6,4 +6,3 @@ enableLinkPreview: true
 ## Root
 
 - [Quartz](https://agsup.github.io/quartz)
-- [[]]
